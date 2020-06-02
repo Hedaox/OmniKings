@@ -1,4 +1,4 @@
-package callout.DBCOmniverse.proxy;
+package callout.OmniKings.proxy;
 
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;

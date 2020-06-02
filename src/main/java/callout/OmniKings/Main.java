@@ -1,7 +1,7 @@
-package callout.DBCOmniverse;
+package callout.OmniKings;
 
-import callout.DBCOmniverse.lib.ModVars;
-import callout.DBCOmniverse.proxy.CommonProxy;
+import callout.OmniKings.lib.ModVars;
+import callout.OmniKings.proxy.CommonProxy;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -17,7 +17,7 @@ public class Main {
     @Mod.Instance
     public static Main instance = new Main();
 
-    @SidedProxy(clientSide = "callout.DBCOmniverse.proxy.ClientProxy", serverSide = "callout.DBCOmniverse.proxy.ServerProxy")
+    @SidedProxy(clientSide = "callout.OmniKings.proxy.ClientProxy", serverSide = "callout.OmniKings.proxy.ServerProxy")
     public static CommonProxy proxy;
 
     @Mod.EventHandler
