@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "OmniKings",
+  "name": "OmniKings",
+  "description": "An add-on mod for DBC.",
+  "version": "1.0.0.0",
+  "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Callout_662, Hedaox, Assassin565 and Jwan"],
+  "credits": "The Forge and FML guys, JinRyuu and Ben for making DBC",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
