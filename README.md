@@ -6,7 +6,7 @@ This mod was created by me (Hedaox). This is a very complex but incomplete mod f
 
 Here a video showing the custom race, for the moment only one, the bio-android ( Cell's Race ): https://www.youtube.com/watch?v=x035Gr2UDwM
 
-<!>BEWARE: THE MOD IS INCOMPLETE AND BUGGY AND SHOULD NOT BE USED IN A PUBLIC DBC SERVER, A LOT OF CRASHES CAN OCCUR<!>
+# <!>BEWARE: THE MOD IS INCOMPLETE AND BUGGY AND SHOULD NOT BE USED IN A PUBLIC DBC SERVER, A LOT OF CRASHES CAN OCCUR<!>
 
 I advise using the mod in single player or with friends, just for fun or for RP Scene. Again this mod is in a proof of concept state and should not be used as of right now. 
 
