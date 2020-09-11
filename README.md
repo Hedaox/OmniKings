@@ -1,5 +1,4 @@
 # Omni Kings - Custom Race mod for DBC
-
 A custom Race mod for DBC 1.4.68 or 1.4.70.
 
 This mod was created by me (Hedaox). This is a very complex but incomplete mod for adding new races in the DBC mod made by Jinryuu (Now the mod is developped by his brother Ben). Here his website : http://main.jingames.net/.
@@ -31,10 +30,5 @@ You can found full license here : https://www.gnu.org/licenses/gpl-3.0.en.html o
 
 - Install Forge 1.7.10 : https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html
 - Install DBC : http://main.jingames.net/minecraft-mods/dragon-block-c/downloads-and-installation/
-- Put the mod in the ".Minecraft/mods" folder : No Build as of yet...
+- Put the mod in the ".Minecraft/mods" folder : https://github.com/Hedaox/OmniKings/releases/download/1.0.0.0/OmniKings-1.7.10-1.0.0.0.jar
 
-# Make a donation
-
-If you like what I do, you can help by making a donation here : https://www.patreon.com/Hedaox
-
-If you want to use this mod, do not hesitate to PM me, it will make me very happy ^^
