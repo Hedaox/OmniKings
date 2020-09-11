@@ -8,7 +8,7 @@ Here a video showing the custom race, for the moment only one, the bio-android (
 
 # <!>BEWARE: THE MOD IS INCOMPLETE AND BUGGY AND SHOULD NOT BE USED IN A PUBLIC DBC SERVER, A LOT OF CRASHES CAN OCCUR<!>
 
-I advise using the mod in single player or with friends, just for fun or for RP Scene. Again this mod is in a proof of concept state and should not be used as of right now. 
+I advise using the mod in single player or with friends, just for fun or for RP Scene. Again this mod is in a proof of concept state and should not be used, as of right now, in public servers.
 
 I stopped programming the mod for personals reasons, and I do not wish to continue coding the mod. If you want to continue the mod please respect the open-source licensing and I will be pleased to help you if you have any questions. Contact me with discord at Hedaox#0074. You can find me on the official DBC discord (https://discord.gg/wfGu2xa) or some others discords made by the DBC community.
 
