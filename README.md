@@ -1,5 +1,5 @@
 # Omni Kings - Custom Race add-on for DBC
-A custom Race mod for DBC 1.4.68 or 1.4.70.
+A custom Race add-on for DBC 1.4.68 or 1.4.70.
 
 This add-on was created by me (Hedaox). This is a very complex but incomplete add-on for adding new races in the DBC mod made by Jinryuu (Now the mod is developped by his brother Ben). Here his website : http://main.jingames.net/.
 
